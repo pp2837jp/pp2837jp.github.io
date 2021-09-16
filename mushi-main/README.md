@@ -1,3 +1,0 @@
-# tentoumushi
-myfirsthomepage
-私の自己紹介をしてるホームページです
